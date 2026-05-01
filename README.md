@@ -35,13 +35,6 @@ To add a new artifact to this repository:
    cp -r ~/.m2/repository/path/to/artifact /path/to/devious-artifacts/
    ```
 
-3. Commit and push the changes:
-   ```bash
-   git add .
-   git commit -m "Add artifact name version"
-   git push
-   ```
-
 ## Structure
 
 The repository follows the standard Maven directory structure:
